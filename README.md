@@ -14,4 +14,4 @@ A Sudoku Solver game project based upon some concepts of data structures. The pr
 
 <!--Selectors Links-->
 
-[website]: https:///
+[website]: https://sharjeel-riaz.github.io/Sudoku/
